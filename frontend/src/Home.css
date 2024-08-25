@@ -1,0 +1,12 @@
+.home-container {
+  height: 100vh;
+  background-image: url('https://bogatyr.club/uploads/posts/2023-03/1679161664_bogatyr-club-p-klinika-fon-foni-oboi-7.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border-radius: 10px;
+}
